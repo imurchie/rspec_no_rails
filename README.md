@@ -6,3 +6,5 @@ Work it:
 bundle install
 bundle exec rspec
 ```
+
+Need to add `parallel_gem` access so jobs aren't only run serially.
